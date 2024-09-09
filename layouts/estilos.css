@@ -1,0 +1,29 @@
+h1 
+{
+    border: 1px solid;
+    border-color: black;
+    color:red;
+    padding: 20px;
+    margin: 20px;
+    background-color: white;
+}
+
+.header
+{
+    border: 1px solid orange;
+    background-color: orange;
+}
+.contenido
+{
+    margin-top: 20px;
+    padding: 20px;
+    background-color: aquamarine;
+
+}
+
+footer
+{
+    background-color: beige;
+    padding:20px;
+    margin-top: 20px;
+}
